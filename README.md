@@ -1,3 +1,3 @@
 # GAP
 Grundlagen algorithmischer Problemlösung 
--> Material und Zusammenfassungen edes Thema mit Cheatsheet
+-> Material und Zusammenfassungen jedes Thema mit Cheatsheet
